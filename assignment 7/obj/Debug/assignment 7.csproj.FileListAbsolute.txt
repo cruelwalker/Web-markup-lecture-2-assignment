@@ -1,0 +1,10 @@
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\bin\Debug\assignment 7.exe.config
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\bin\Debug\assignment 7.exe
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\bin\Debug\assignment 7.pdb
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\obj\Debug\assignment 7.csprojAssemblyReference.cache
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\obj\Debug\assignment_7.Form1.resources
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\obj\Debug\assignment_7.Properties.Resources.resources
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\obj\Debug\assignment 7.csproj.GenerateResource.cache
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\obj\Debug\assignment 7.csproj.CoreCompileInputs.cache
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\obj\Debug\assignment 7.exe
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 7\obj\Debug\assignment 7.pdb

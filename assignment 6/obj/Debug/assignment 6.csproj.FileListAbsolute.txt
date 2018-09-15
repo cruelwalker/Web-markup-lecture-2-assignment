@@ -1,0 +1,10 @@
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\bin\Debug\assignment 6.exe.config
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\bin\Debug\assignment 6.exe
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\bin\Debug\assignment 6.pdb
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\obj\Debug\assignment 6.csprojAssemblyReference.cache
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\obj\Debug\assignment_6.Form1.resources
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\obj\Debug\assignment_6.Properties.Resources.resources
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\obj\Debug\assignment 6.csproj.GenerateResource.cache
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\obj\Debug\assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\obj\Debug\assignment 6.exe
+C:\Users\Cruelwalker\Documents\GitHub\Programing\assignment 6\obj\Debug\assignment 6.pdb
