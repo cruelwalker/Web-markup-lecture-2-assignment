@@ -19,6 +19,7 @@ namespace assignment_8._0
 
         private void button1_Click(object sender, EventArgs e)
         { 
+            // define variables
             string totallbl = lblTotal.Text;
             string vatlbl = lblVat.Text;
             string pricelbl = lblPrice.Text;
@@ -26,13 +27,13 @@ namespace assignment_8._0
             string nOfShirts = txtNtshirts.Text;
             double shirts = double.Parse(nOfShirts);
             double jeans = double.Parse(nJeans);
-
+            // assign variables
             double jeansPrice = jeans * 100;
             double shirtsPrice = shirts * 30;
             double price = jeansPrice + shirtsPrice;
             double vat = price * 0.21;
             double totalPrice = vat + price;
-
+            // display
             lblPrice.Text = ("$") + price.ToString(".00");
             lblVat.Text = ("$") + vat.ToString(".00");
             lblTotal.Text = ("$") +  totalPrice.ToString(".00");

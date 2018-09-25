@@ -1,0 +1,7 @@
+E:\Inholland\programming\practicing\university\A2W3\Assignment 7\bin\Debug\Assignment 7.exe.config
+E:\Inholland\programming\practicing\university\A2W3\Assignment 7\bin\Debug\Assignment 7.exe
+E:\Inholland\programming\practicing\university\A2W3\Assignment 7\bin\Debug\Assignment 7.pdb
+E:\Inholland\programming\practicing\university\A2W3\Assignment 7\obj\Debug\Assignment 7.csprojAssemblyReference.cache
+E:\Inholland\programming\practicing\university\A2W3\Assignment 7\obj\Debug\Assignment 7.csproj.CoreCompileInputs.cache
+E:\Inholland\programming\practicing\university\A2W3\Assignment 7\obj\Debug\Assignment 7.exe
+E:\Inholland\programming\practicing\university\A2W3\Assignment 7\obj\Debug\Assignment 7.pdb

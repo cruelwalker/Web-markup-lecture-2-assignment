@@ -1,0 +1,10 @@
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\bin\Debug\Assignment 14.exe.config
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\bin\Debug\Assignment 14.exe
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\bin\Debug\Assignment 14.pdb
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\obj\Debug\Assignment 14.csprojAssemblyReference.cache
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\obj\Debug\Assignment_14.Form1.resources
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\obj\Debug\Assignment_14.Properties.Resources.resources
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\obj\Debug\Assignment 14.csproj.GenerateResource.cache
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\obj\Debug\Assignment 14.csproj.CoreCompileInputs.cache
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\obj\Debug\Assignment 14.exe
+E:\Inholland\programming\practicing\university\A2W3\Assignment 14\obj\Debug\Assignment 14.pdb

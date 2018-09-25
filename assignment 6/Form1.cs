@@ -24,9 +24,10 @@ namespace assignment_6
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // defin input
             string seconds = txtSeconds.Text;
             int numberSeconds = int.Parse(seconds);
-
+            // calculate hours and min
             int numberHours = numberSeconds / 3600;
             int numberMinutes = (numberSeconds - (numberHours * 3600)) / 60;
 

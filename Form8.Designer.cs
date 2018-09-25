@@ -98,7 +98,7 @@
             // lblTime
             // 
             this.lblTime.AutoSize = true;
-            this.lblTime.Location = new System.Drawing.Point(226, 34);
+            this.lblTime.Location = new System.Drawing.Point(216, 34);
             this.lblTime.Name = "lblTime";
             this.lblTime.Size = new System.Drawing.Size(79, 13);
             this.lblTime.TabIndex = 7;
@@ -109,7 +109,7 @@
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
-            this.lblTotal.Location = new System.Drawing.Point(286, 115);
+            this.lblTotal.Location = new System.Drawing.Point(264, 115);
             this.lblTotal.Name = "lblTotal";
             this.lblTotal.Size = new System.Drawing.Size(19, 13);
             this.lblTotal.TabIndex = 6;
@@ -120,7 +120,7 @@
             // lblVat
             // 
             this.lblVat.AutoSize = true;
-            this.lblVat.Location = new System.Drawing.Point(286, 93);
+            this.lblVat.Location = new System.Drawing.Point(270, 93);
             this.lblVat.Name = "lblVat";
             this.lblVat.Size = new System.Drawing.Size(19, 13);
             this.lblVat.TabIndex = 5;
@@ -131,7 +131,7 @@
             // lblPrice
             // 
             this.lblPrice.AutoSize = true;
-            this.lblPrice.Location = new System.Drawing.Point(286, 63);
+            this.lblPrice.Location = new System.Drawing.Point(264, 63);
             this.lblPrice.Name = "lblPrice";
             this.lblPrice.Size = new System.Drawing.Size(19, 13);
             this.lblPrice.TabIndex = 4;

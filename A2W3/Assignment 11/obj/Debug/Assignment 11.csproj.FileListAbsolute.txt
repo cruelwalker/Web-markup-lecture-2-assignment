@@ -1,0 +1,9 @@
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\bin\Debug\Assignment 11.exe.config
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\bin\Debug\Assignment 11.exe
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\bin\Debug\Assignment 11.pdb
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\obj\Debug\Assignment_11.Form1.resources
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\obj\Debug\Assignment_11.Properties.Resources.resources
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\obj\Debug\Assignment 11.csproj.GenerateResource.cache
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\obj\Debug\Assignment 11.csproj.CoreCompileInputs.cache
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\obj\Debug\Assignment 11.exe
+E:\Inholland\programming\practicing\university\A2W3\Assignment 11\obj\Debug\Assignment 11.pdb

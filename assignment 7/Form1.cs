@@ -89,7 +89,7 @@ namespace assignment_7
 
         private void btnErase_Click(object sender, EventArgs e)
         {
-           
+            // erase command btn
             txtStart.Text  = null;
             txtEnd.Text = null;
             txtTotal.Text = null;
